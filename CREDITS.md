@@ -25,7 +25,7 @@
 ## 3. Key Module Contributors & Testers
 
 * **Trusted Testers (User_[A, B, C...])**
-    * **Key Contributors**: Pingan Hao, Wangwang Luo, Yihong Yuan, Jane, Eason, Bird, Yuxi Chen, Zenghao Zhang, Yufan Lian, Zifan Huang, Cao, and others.
+    * **Key Contributors**: Pingan Hao, Wangwang Luo, Yihong Yuan, Jane, Eason, Bird, Yuxi Chen, Zenghao Zhang, Yufan Lian, Zifan Huang, Cao and others.
     * **Contributions**: Proposed and validated the core `ssh_friend_only` security patch. Provided high-fidelity debugging data and stress testing for the refactored emotional engine, significantly improving stability.
 * **Intellectual Catalysts (@Various Teachers & Authors)**
     * **Key Contributors**: Tutor Zhu, Linda, Yaozhong Liu, Yanhua Yin, Yefeng Yang, Xiaoqi Chen, Shuhui Chen, Yuanjing Lin, Yubing Wang and his wife.
