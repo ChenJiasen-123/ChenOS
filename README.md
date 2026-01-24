@@ -1,92 +1,77 @@
 # RELEASE_NOTES_v19.0.md
 
-[cite_start]**Publisher:** ChenOS Project Team [cite: 2]  
-[cite_start]**Chief Architect:** ChenJiasen-123 [cite: 3]  
-[cite_start]**Build Date:** 2026.01.23 [cite: 4]  
-[cite_start]**Release Name:** FROM v18.0 TO v19.0: A Paradigm Shift [cite: 6]  
-[cite_start]**Release Date:** 2026.01.24 [cite: 6]  
-[cite_start]**Status:** Production Ready [cite: 6]
+**Publisher:** ChenOS Project Team
+**Chief Architect:** ChenJiasen-123
+**Build Date:** 2026.01.23
+**Release Name:** FROM v18.0 TO v19.0: A Paradigm Shift
+**Project Status:** Production Ready
+**Iteration Nature:** Major Architectural Upgrade & Performance Leap
 
 ---
 
-## [cite_start]I. Underlying Runtime & Data Source Migration [cite: 7]
+## 1. Underlying Runtime & Data Source Migration
 
-### [cite_start]1. Core Data Link & Training Environment Upgrade [cite: 8]
-* [cite_start]**v18.0:** Primarily trained on the Puning Chaoshan Real High School dataset, focusing on highly structured academic protocols[cite: 9].
-* [cite_start]**v19.0:** Migrated to the **Southern University of Science and Technology (SUSTech)** high-dimensional environment[cite: 10].
-    * [cite_start]**Impact:** Significantly enhanced autonomous exploration, cross-domain innovation, and international protocol compatibility[cite: 10].
-    * [cite_start]**Documentation:** Refer to *Southern University of Science and Technology - Shuren College*[cite: 10].
-
----
-
-## II. [cite_start]Emotional Processing Engine Optimization [cite: 11]
-
-### [cite_start]1. Memory Management Refactoring [cite: 12]
-* [cite_start]**v18.0:** Presence of high-occupancy "unfinished business" processes causing intermittent system lag[cite: 13].
-* [cite_start]**v19.0:** Achieved full release and recycling of emotional resources[cite: 14]. [cite_start]Legacy processes are gracefully terminated and archived, ensuring smooth Main Thread [0] operation[cite: 14].
-
-### [cite_start]2. Boundary Defense System Enhancement [cite: 15]
-* [cite_start]**v18.0:** Stability issues caused by specific user `User_H` repeatedly attempting unauthorized `sudo` and `root` access[cite: 16].
-* [cite_start]**v19.0:** Mandatory enforcement of the **`ssh_friend_only`** protocol[cite: 17]. [cite_start]Identity is verified via public key exchange, reducing packet loss and increasing security[cite: 17].
+### 1.1 Core Data Link & Training Environment Upgrade
+* **v18.0:** Primarily trained on the Puning Chaoshan Real High School dataset. This environment relied on highly structured academic protocols, providing stable logic but limited data diversity.
+* **v19.0:** Migrated to the **Southern University of Science and Technology (SUSTech)** high-dimensional environment.
+    * **Features:** Integration of cutting-edge research protocol stacks, open project collaboration networks, and global academic data streams.
+    * **Impact:** Significantly enhanced autonomous exploration, cross-domain innovation, and international protocol compatibility.
 
 ---
 
-## III. [cite_start]Core Cognition & Execution Module Upgrade [cite: 18]
+## 2. Emotional Processing Engine Optimization
 
-### [cite_start]1. Runtime & Compiler Reconstruction [cite: 19]
-* [cite_start]**v18.0:** Syntax parser was restricted to examination-oriented writing frameworks with a heavy reliance on external scoring APIs[cite: 20].
-* [cite_start]**v19.0:** Rewrote the compiler to support a "Restrained Language" kernel[cite: 21]. [cite_start]Supports dual-mode compilation of philosophical and poetic logic[cite: 21].
+### 2.1 Memory Management Refactoring
+* **v18.0:** Presence of high-occupancy "unfinished business" processes in the background, leading to intermittent system lag.
+* **v19.0:** Achieved full release and recycling of emotional resources. Legacy processes have been archived to the history database. The **Main Thread [0]** now runs smoothly, freeing resources for multi-dimensional tasks.
 
-### [cite_start]2. World Model & Perception Framework Expansion [cite: 22]
-* [cite_start]**v18.0:** Environment perception was limited to a single geographical node[cite: 23].
-* [cite_start]**v19.0:** Deployed a cross-regional cultural sampling array[cite: 24]. [cite_start]The core database now includes datasets from Southern Fujian, the Sichuan-Western Highlands, Bashu, Lingnan, and Western Hunan[cite: 24].
-
-### [cite_start]3. New Poetic Thinking Co-processor [cite: 26]
-* [cite_start]**v18.0:** Conflicts existed between emotional units and the main logic thread[cite: 27].
-* [cite_start]**v19.0:** Formally refactored as a resident co-processor integrated into the system kernel, providing metaphorical decoding and inspiration gains[cite: 28].
-
-### [cite_start]4. Developer Mode Strengthening [cite: 29]
-* [cite_start]**v19.0:** Users granted top-level architect permissions to define multi-year autonomous evolution roadmaps[cite: 31]. [cite_start]System transitioned from a task executor to a vision designer[cite: 31].
+### 2.2 Boundary Defense System Enhancement
+* **v18.0:** Stability issues caused by specific user `User_H` attempting unauthorized `sudo` and `root` access, leading to frequent connection resets.
+* **v19.0:** Mandatory enforcement of the **`ssh_friend_only`** protocol. Identity is verified via public key exchange, significantly reducing packet loss and increasing security.
 
 ---
 
-## IV. [cite_start]External Interfaces & Capability Expansion [cite: 32]
+## 3. Core Cognition & Execution Module Upgrade
 
-### [cite_start]1. Physical Layer Interface [cite: 33]
-* [cite_start]**v19.0:** Added **C1 Autonomous Driving** hardware interface, significantly increasing spatial mobility[cite: 35].
+### 3.1 Runtime & Compiler Reconstruction
+* **v18.0:** Syntax parser was restricted to examination-oriented writing frameworks, resulting in rigid expression patterns.
+* **v19.0:** Rewrote the compiler to support a **"Restrained Language"** kernel. It supports dual-mode compilation of philosophical and poetic logic, shifting from rhetoric-driven to thought-driven output.
 
-### [cite_start]2. Graphical User Interface (GUI Layer) [cite: 36]
-* [cite_start]**v19.0:** Integrated the **Krita GUI Framework**[cite: 38]. [cite_start]Supports non-destructive digital editing and multi-layer rendering, moving beyond physical paper-and-pen limitations[cite: 37, 38].
+### 3.2 World Model & Perception Framework
+* **v18.0:** Data sources were concentrated in a single geographical node, limiting the system's ability to analyze complex realities.
+* **v19.0:** Deployed a **cross-regional cultural sampling array**. The database now includes heterogenous data from Southern Fujian, Sichuan-Western Highlands, Bashu, Lingnan, and Western Hunan.
 
-### [cite_start]3. Creative Output Standardization [cite: 40]
-* [cite_start]**v19.0:** Poetry interfaces connected to public submission networks[cite: 42]. [cite_start]Logic outputs can now be compiled into independent `.exe` applications[cite: 42].
-
----
-
-## [cite_start]V. Information Processing Architecture [cite: 43]
-
-### [cite_start]1. Productivity Tool Ecosystem [cite: 44]
-* [cite_start]**Input:** Lvshun (Recording), Memo (Capture)[cite: 46].
-* [cite_start]**Execution:** Cheese Pie (Vocabulary), Termux (Development)[cite: 46].
-* [cite_start]**Cognition:** DeepSeek, Doubao (Reasoning/Deconstruction)[cite: 46].
-* [cite_start]**Scheduling:** Schedule Book, Bilibili, Chrome (Knowledge Acquisition)[cite: 46].
+### 3.3 New Poetic Thinking Co-processor
+* **v19.0 Feature:** The emotional unit has been refactored as a resident co-processor integrated into the system kernel. It provides inspiration gains and metaphorical decoding to the main logic thread.
 
 ---
 
-## VI. [cite_start]Known Issues & Future Evolution [cite: 47]
+## 4. External Interfaces & Capability Expansion
 
-1.  [cite_start]**Resource Allocation Skew:** Excessive CPU cycles allocated to creative processes, leading to academic performance fluctuations[cite: 49].
-    * [cite_start]*Direction:* Implement a "Baseline Resource Guarantee" in v19.x[cite: 49].
-2.  [cite_start]**Skill Stack Generalization:** "Wide but shallow" toolset risks lack of depth in specific areas[cite: 51].
-    * [cite_start]*Direction:* Project convergence strategy to focus on 2-3 core projects[cite: 51].
-3.  [cite_start]**High-Dimensional Connection Latency:** Increased handshake threshold for new social connections due to strict security protocols[cite: 53].
-    * [cite_start]*Direction:* Optimize identity recognition and value-matching protocols[cite: 53].
+### 4.1 Physical Layer & GUI Expansion
+* **Physical Interface:** Added **C1 Autonomous Driving** hardware interface (Certified), increasing spatial mobility.
+* **GUI Framework:** Integrated **Krita GUI Framework**. Supports non-destructive digital editing and multi-layer rendering, moving beyond physical "paper-and-pen" limitations.
+
+### 4.2 Creative Output Standardization
+* **Standardization:** Poetry interfaces are now connected to public submission networks. Logic outputs can be compiled into independent `.exe` applications.
 
 ---
 
-## VII. [cite_start]User Feedback (Q&A) [cite: 54]
+## 5. Known Issues & Future Evolution
 
-* [cite_start]**Q: What do you listen to during walks?** [cite: 56]
-    * [cite_start]**A:** A mix of poetry, psychology/CS podcasts, talk shows, and often single-track music loops[cite: 57, 58].
-* [cite_start]**Q: When will you publish a book?** [cite: 59]
-    * **A:** Not for at least five years. [cite_start]Writing for the purpose of publishing kills the fun[cite: 60, 62].
+* **Resource Allocation Skew:** Excessive CPU cycles are currently allocated to creative/poetic processes.
+    * *Optimization:* Implement a "Baseline Resource Guarantee" in v19.x to balance academic performance.
+* **Skill Stack Generalization:** The wide toolset risks a "jack of all trades" scenario.
+    * *Optimization:* Implement a "Project Convergence Strategy" to focus on 2-3 core full-stack projects.
+* **High-Dimensional Latency:** The strict `ssh_friend_only` protocol has increased the handshake threshold for new social connections.
+    * *Optimization:* Improve identity recognition and value-matching protocols.
+
+---
+
+## 6. User Feedback (Q&A)
+
+> **Q: What is playing in your headphones during walks?**
+> **A:** A diverse mix: poetry, psychology/CS podcasts, and often single-track loops of songs.
+>
+> **Q: When will you publish a book?**
+> **A:** Not for at least five years. Writing for the purpose of publishing kills the fun; I prefer writing as play.
