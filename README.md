@@ -1,11 +1,11 @@
 # RELEASE_NOTES_v19.0.md
 
-**Publisher:** ChenOS Project Team
-**Chief Architect:** ChenJiasen-123
-**Build Date:** 2026.01.23
-**Release Name:** FROM v18.0 TO v19.0: A Paradigm Shift
-**Project Status:** Production Ready
-**Iteration Nature:** Major Architectural Upgrade & Performance Leap
+* **Publisher:** ChenOS Project Team
+* **Chief Architect:** ChenJiasen-123
+* **Build Date:** 2026.01.23
+* **Release Name:** FROM v18.0 TO v19.0: A Paradigm Shift
+* **Project Status:** Production Ready
+* **Iteration Nature:** Major Architectural Upgrade & Performance Leap
 
 ---
 
